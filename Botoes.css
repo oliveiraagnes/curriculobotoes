@@ -1,0 +1,33 @@
+body	{
+	background-color: #FFA07A;
+		}
+
+
+h3	{
+	background-color: #A9A9A9;
+	border: 5px solid #191970;
+	margin: 3px;
+	padding: 3px;
+		}
+
+a:link	{
+	color: green;
+	background: #B0C4DE;
+		} 
+
+a:visited	{
+	color: black;
+	background: pink;
+		}
+
+a:active	{
+	color: white;
+	background: blue;
+		}
+
+a:rover	{
+	color: black;
+	background: white
+	font-family: tahoma;
+	font-size: 15px;
+		}
